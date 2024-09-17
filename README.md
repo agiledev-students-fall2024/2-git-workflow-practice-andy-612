@@ -1,7 +1,7 @@
 # Git Practice
 
 ### Article
-[Markdown Syntax Guide](https://www.wsj.com/articles/artificial-intelligence-jobs-pay-netflix-walmart-230fc3cb)
+[AI Jobs Craze](https://www.wsj.com/articles/artificial-intelligence-jobs-pay-netflix-walmart-230fc3cb)
 
 ### What I find interesting
 
