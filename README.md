@@ -9,5 +9,4 @@ Although the article is dated a year ago, I find it interesting because it reall
 
 ### Comment
 
-
-
+* There's certainly growing demanding for AI developers, as your summary points out. Given how fast-moving the tech field is, it's likely that the job market as a whole has shifted since the article was published. It would be interesting to see updated figures for the graph. - Ele N.
